@@ -8,7 +8,8 @@
    >`git clone git@github.com:Diggity09/final-main.git`
 4. Открыть скачанный репозиторий через редактор.
 5. Ввести команду
-   >`go test .\go run main.go`
+   >`go test .
+   >go run main.go`
 
 ## Технологии:
 * Go 1.24.1
