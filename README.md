@@ -17,6 +17,7 @@
 * HTTP
 * HTML
 * Docker
+* SQL
 
 ## Автор проекта:
 Dmitrii Mironov
