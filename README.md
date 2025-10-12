@@ -5,9 +5,10 @@
 ## Инструкция по запуску:
 1. В Branches выбрать first-itaration
 2. Клонировать репозиторий командой
-   >git clone git@github.com:Diggity09/final-main.git
+   >`git clone git@github.com:Diggity09/final-main.git`
 4. Открыть скачанный репозиторий через редактор.
-5. Ввести команду `go test .`
+5. Ввести команду
+6. >`go test .`
 
 ## Технологии:
 * Go 1.24.1
